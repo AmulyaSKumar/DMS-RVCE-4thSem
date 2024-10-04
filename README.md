@@ -1,4 +1,4 @@
-# DMS-RVCE-4thSem
+# DMS-RVCE-4thSem (2022 Scheme)
 
 This repository contains a collection of handwritten notes, solved exercises, and PowerPoint presentations for the subject **Discrete Mathematical Structures (DMS)**. The materials are organized by units to facilitate easy navigation and study. These resources cover key concepts, problem-solving techniques, and important points for exam preparation.
 
